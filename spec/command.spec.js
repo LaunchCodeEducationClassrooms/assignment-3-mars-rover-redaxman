@@ -20,3 +20,5 @@ describe("Command class", function() {
   });
 
 });
+let commands = new Command('MODE_CHANGE', 'LOW_POWER');
+console.log(commands)
