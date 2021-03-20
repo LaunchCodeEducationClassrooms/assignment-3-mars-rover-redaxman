@@ -1,4 +1,3 @@
-const assert = require('assert');
 const Command = require('./command.js');
 const Message = require('./message.js');
 
